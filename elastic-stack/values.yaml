@@ -1,0 +1,11 @@
+elasticsearch:
+  enabled: true
+
+filebeat:
+  enabled: true
+
+kibana:
+  enabled: true
+
+elasticsearch-curator:
+  enabled: false
